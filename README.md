@@ -53,7 +53,7 @@ No rows were deleted at any stage of this pipeline. Every missing-data and outli
 
 ## Tech Stack
 
-Python · pandas · numpy · scipy · Jupyter Notebook
+Python · pandas · numpy · re · Jupyter Notebook
 
 ## How to Run
 1. Clone the Repository
