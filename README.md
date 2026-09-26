@@ -14,8 +14,9 @@ professional details (primary skill, years of experience, hourly rate), and perf
 ## Methodology: 
 The Jupyter Notebook follows 8 stages. Each stage is documented in line and reasoning behind it, not just code executes.
 
-# |Stage | Summary |
-|---|---|---|
+## Summary
+|Stage | Tasks| Summary |
+| --- | --- | --- |
 | 1 | Data quality Report | count Null values, check duplicates, dtypes and resolve anomolies. |
 | 2 | Missing Data Handling | Choose different strategies for each columns and imputed new value which suits there. |
 | 3 | Duplicate Removal | Checked and removed duplicates but there were no duplicates. |
